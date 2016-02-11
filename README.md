@@ -1,6 +1,6 @@
 # Meta Space
 
-## A communal repository to store and share programming and computer knowlage
+A communal repository to store and share programming and computer knowledge
 
 ### Current topics are
 
