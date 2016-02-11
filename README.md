@@ -13,3 +13,8 @@ A communal repository to store and share programming and computer knowledge
 
 - Basic git cheat sheet?
 
+---
+
+#### Similar :
+https://github.com/thoughtbot/til
+
