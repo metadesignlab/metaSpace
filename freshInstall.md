@@ -43,3 +43,10 @@
 ####Data Bases
 	CouchDB
 	MongoDB
+
+####Utils
+	Terminal
+		tree
+			$ brew install tree
+		wget
+			$ brew install wget
