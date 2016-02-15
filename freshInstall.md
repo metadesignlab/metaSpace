@@ -19,9 +19,9 @@
 	homeBrew
 		www.http://brew.sh/
 
-####Visioning
+####Versioning
 	git
-		$brew insall git
+		$brew install git
 	gitHub
 		https://github.com
 ####Python
