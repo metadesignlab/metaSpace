@@ -36,4 +36,10 @@ Tutorials
 
 https://github.com/mbostock/d3/wiki/Tutorials
 
+---
+	
+####Angular
 
+Angular 2 Style Guide
+
+https://github.com/mgechev/angular2-style-guide/blob/master/README.md
