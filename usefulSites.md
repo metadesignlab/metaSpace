@@ -36,4 +36,12 @@ Tutorials
 
 https://github.com/mbostock/d3/wiki/Tutorials
 
+####Git Hub
 
+Tutorials
+
+https://www.atlassian.com/git/
+
+How to undo (use with care)
+
+https://www.atlassian.com/git/tutorials/undoing-changes
