@@ -19,7 +19,7 @@
 	homeBrew
 		www.http://brew.sh/
 
-####Visioning
+####Versioning
 	git
 		$brew install git
 	gitHub
