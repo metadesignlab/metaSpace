@@ -21,9 +21,21 @@
 
 ####Visioning
 	git
-		$brew insall git
+		$brew install git
 	gitHub
 		https://github.com
+
+	kDiff3 for merging code
+		http://kdiff3.sourceforge.net/
+	add to .~/.gitconfig
+	'''
+	[mergetool "kdiff3"]
+   		path = /Applications/kdiff3.app/Contents/MacOS/kdiff3
+		trustExitCode = false	
+	[merge]
+		tool = kdiff3
+	'''
+		
 ####Python
 	Version 2
 		https://www.python.org/
