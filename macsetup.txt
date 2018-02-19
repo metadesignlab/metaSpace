@@ -1,0 +1,70 @@
+Clean Install  (Jan 2018)
+
+Chrome
+	https://www.google.com/chrome/
+
+iTerm2. version 3.
+	https://www.iterm2.com/
+	Copy .bash_profile from existing
+	Install iterm2> Install shell integration
+
+OSX command line tools
+	$ xcode-select --install
+
+
+Homebrew
+	$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+	wget
+		$ brew install wget
+	tree
+		$ brew install tree
+
+	mvim
+		$ brew install macvim
+                copy .vim_rc from elsewhere
+	Git?
+		$ brew install git
+		then ensure that it actually runs that version and not a apple version
+
+	kdiff3
+		brew tap caskroom/cask
+		brew cask install kdiff3
+
+Solarized theme 
+        $ mkdir ~/.vim
+        download colours
+            https://github.com/altercation/vim-colors-solarized
+        $ rm -r .vim/colors  
+        $ cp ~/Downloads/vim-colors-solarized-master/colors/solarized.vim .vim/colors/
+
+
+Anaconda Python3
+	Download most recent bash installer
+	Anaconda3-5.0.1-MacOSX-x86_64.sh
+	then 
+	$ bash Anaconda3-5.0.1-MacOSX-x86_64.sh
+
+Node
+	$ brew install node
+
+        $ npm install -g browser-sync
+
+        bower?
+        gulp?
+
+
+MongoDB?
+	https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
+
+	$ brew install mongodb
+	
+	make place for database
+	$ mkdir -p /data/db
+
+	test it works
+	$ mongod
+
+
+
+
